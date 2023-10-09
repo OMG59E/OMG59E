@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![dyadd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OMG59E&show_icons=true&hide=contribs,prs&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/OMG59E)
+[![OMG59E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OMG59E&show_icons=true&hide=contribs,prs&count_private=true&bg_color=30,77FFD2,6297DB,1EECFF&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/OMG59E)
 ### 🤔，我使用的编程语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OMG59E&layout=compact)](https://github.com/OMG59E)
 <!--
